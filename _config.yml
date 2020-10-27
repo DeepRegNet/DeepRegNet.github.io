@@ -1,1 +1,5 @@
+title: DeepRegNet
+description: Freely available, community-supported open-source tools for medical image registration using deep learning.
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-cayman
