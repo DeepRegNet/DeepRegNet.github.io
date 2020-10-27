@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div align=center>
-  <img src="assets/img/deepreg_logo_purple.svg" height="250px">
+  <img src="assets/img/deepreg_logo_purple.svg" height="150px">
 </div>
 
 <p align=center>Unsupervised and weakly-supervised algorithms.</p>
@@ -13,10 +13,8 @@ layout: default
 <br>
 
 <div align=center>
-  <img src="assets/img/fixed_image.gif" height=150px><img src="assets/img/pred_image.gif" height=150px><img src="assets/img/moving_image.gif" height=150px>
+  <img src="assets/img/fixed_image.gif" height=100px><img src="assets/img/pred_image.gif" height=100px><img src="assets/img/moving_image.gif" height=100px>
 </div>
-
-<br>
 
 <h2 align=center>Get Started</h2>
 <div align=center>
